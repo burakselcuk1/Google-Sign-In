@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468718522663",
+    "project_id": "yeni-8bc66",
+    "storage_bucket": "yeni-8bc66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468718522663:android:77135f00abcd38a5f89902",
+        "android_client_info": {
+          "package_name": "com.example.yeni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468718522663-g0m7rtff83dlp5rm6digh8msr8v94r2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABy-D7OOnH706qzHP8FZuLpjvZu10YQjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468718522663-g0m7rtff83dlp5rm6digh8msr8v94r2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
